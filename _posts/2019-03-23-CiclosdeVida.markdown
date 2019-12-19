@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Ciclos de vida del Software"
 date:   2019-12-01 21:13:53 +0530
@@ -15,4 +15,3 @@ Las distintas fases por las que pasa el software desde que nace una necesidad de
 -Implementación<br>
 -Puesta en producción</p>
 
- <center><img src="http://ciclodevida.net/wp-content/uploads/2018/04/ciclo-de-vida-del-software.jpg"></center>
